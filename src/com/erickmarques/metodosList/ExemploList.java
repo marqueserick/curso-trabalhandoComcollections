@@ -76,7 +76,7 @@ public class ExemploList {
         System.out.println(notas);
 
         //remova todas as notas
-        //notas.clear();
+        notas.clear();
         System.out.println(notas);
 
         //confira se lista esta vazia
