@@ -1,4 +1,4 @@
-package com.erickmarques.exerciciosPropostos;
+package com.erickmarques.metodosList.exerciciosPropostos;
 
 import java.util.ArrayList;
 import java.util.List;
