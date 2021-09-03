@@ -1,0 +1,18 @@
+dada a população estimada de alguns estados do Ne brasileiro, faça
+    Estado= PE - população = 9616621
+    Estado= AL - população = 3351543
+    Estado= CE - população = 9187103
+    Estado= RN - população = 3534265
+        [x]crie um dicionario e relacione os estados e suas populações
+        [x]substitua a população do RN por 3534165
+        [x]verifique se PB está no dicionario, caso não, adicione PB - 4039277
+        [x]exiba a população PE
+        [x]exiba todos os estados e suas populações na ordem que foram informados
+        [x]exiba todos os estados e suas populações em ordem alfabetica
+        [x]exiba o estado com menor população e sua quantidade
+        [x]exiba o estado com maior população e sua quantidade
+        [x]exiba a soma da população desses estados
+        [x]exiba a media da população desses estados
+        [X]remova os estados com a população menor que 4000000
+        [x]apague o dicionario de estados
+        [x]verifique se o dicionario está vazio
