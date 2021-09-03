@@ -50,8 +50,8 @@ public class Serie implements Comparable<Serie>{
         @Override
         public boolean equals(Object o) {
             if (this == o) return true;
-            if (!(o instanceof com.erickmarques.metodosSet.Serie)) return false;
-            com.erickmarques.metodosSet.Serie serie = (com.erickmarques.metodosSet.Serie) o;
+            if (!(o instanceof Serie)) return false;
+            Serie serie = (Serie) o;
             return getNome().equals(serie.getNome()) && getGenero().equals(serie.getGenero())
                     && getDuracaoEpisodio().equals(serie.getDuracaoEpisodio());
         }
